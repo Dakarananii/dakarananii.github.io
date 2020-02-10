@@ -1,10 +1,10 @@
 # About
 私の名前は平松賢人です。
-![](S__21897220.jpg)
+![](FoZbpZKyciPfoP51581309695_1581309709.png)
 HP制作やちょっとしたアプリなら作れます。将来的にはSNSや掲示板サイトなどを作っていきたいです。
 
 ## Profile  
-[リンクです](https://twitter.com/dakarananii_756)
+[リンク](https://twitter.com/dakarananii_756)
 - (名前)ダカラナニー 
 - (出身)ダカラナニー株式会社
 - (特技)料理
