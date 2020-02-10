@@ -19,7 +19,7 @@ HTML,CSS,JavaScript,Node.js,Vue.js
 (サイトのURLは過去のMacBookと共に紛失)
 
 #Histrory
-学歴  
+学歴
 - 2007 大東中央幼稚園入園
 - 2010 大東中央幼稚園卒園,住道南小学校入学
 - 2016 住道南小学校卒業、大阪桐蔭中学入学
