@@ -32,3 +32,6 @@ HTML,CSS,JavaScript,Node.js,Vue.js
 - 2019 子ども食堂認定ボランティア
 - 2020 不登校イベント主催ボランティア
 - 2020 心斎橋キャンパスプログラミングサークル設立
+
+# Favorite
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zi59WL9LxZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
