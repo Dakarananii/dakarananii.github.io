@@ -8,17 +8,17 @@ HP制作やちょっとしたアプリなら作れます。将来的にはSNSや
 - ダカラナニー株式会社
 - HP制作
 
-#Skills
+# Skills
 HTML,CSS,JavaScript,Node.js,Vue.js
 
-#Works
+# Works
 自己紹介サイト
 電卓アプリ
 ジャンケンアプリ
 カレンダー
 (サイトのURLは過去のMacBookと共に紛失)
 
-#Histrory
+# Histrory
 
 学歴
 - 2007 大東中央幼稚園入園
