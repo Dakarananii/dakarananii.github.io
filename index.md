@@ -4,9 +4,9 @@ HP制作やちょっとしたアプリなら作れます。将来的にはSNSや
 
 ## Profile  
 [リンクです](https://twitter.com/dakarananii_756)
-- ダカラナニー 
-- ダカラナニー株式会社
-- HP制作
+- (名前)ダカラナニー 
+- (出身)ダカラナニー株式会社
+- (特技)料理
 
 # Skills
 HTML,CSS,JavaScript,Node.js,Vue.js
