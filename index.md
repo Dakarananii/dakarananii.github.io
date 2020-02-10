@@ -18,7 +18,7 @@ HTML,CSS,JavaScript,Node.js,Vue.js
 電卓アプリ  
 ジャンケンアプリ  
 カレンダー  
-緩めのデザイン<iframe src="https://www.openprocessing.org/sketch/838419/embed/" width="400" height="300"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/838419/embed/" width="400" height="300"></iframe>
 (サイトのURLは過去のMacBookと共に紛失)
 
 # Histrory
