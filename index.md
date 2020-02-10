@@ -5,5 +5,5 @@ HP制作やちょっとしたアプリなら作れます。将来的にはSNSや
 ## Profile
 - ダカラナニー 
 - ダカラナニー 
-- HP制作　　
+- HP制作  
 [リンクです]https://twitter.com/dakarananii_756
