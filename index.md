@@ -9,6 +9,7 @@ HP制作やちょっとしたアプリなら作れます。将来的にはSNSや
 - (名前)ダカラナニー 
 - (出身)ダカラナニー株式会社
 - (特技)料理
+↑タイムライン
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/dakarananii_756?ref_src=twsrc%5Etfw">Tweets by dakarananii_756</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Skills
