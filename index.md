@@ -18,7 +18,7 @@ HTML,CSS,JavaScript,Node.js,Vue.js
 カレンダー
 (サイトのURLは過去のMacBookと共に紛失)
 
-#Histrory
+#Histrory  
 学歴  
 - 2007 大東中央幼稚園入園
 - 2010 大東中央幼稚園卒園,住道南小学校入学
